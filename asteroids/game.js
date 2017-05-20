@@ -4,6 +4,7 @@ var asteroids;
 var currentLevel;
 var gameState;
 
+// Define the states of the applications
 var GameState = {
 	GAME_INTRO: 1,
 	LEVEL_INTRO: 2,
